@@ -1,5 +1,5 @@
 # Basic_Hangman
-A basic Hangman game made with Python. This game was created using a guide made by Jon Fincher on RealPython.com
+A basic Hangman game made with Python. This game was created using a guide made by Jon Fincher on RealPython.com, and the file was made to be ran in the Command Prompt.
 
 Welcome to 'Zacks Basic Hangman! – a classic word-guessing game brought to life in Python! In this engaging and challenging game, players are tasked with guessing a hidden word letter by letter. The game offers a unique blend of word selection and input validation, making it both entertaining and educational.
 
